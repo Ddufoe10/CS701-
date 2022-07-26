@@ -1,2 +1,2 @@
-# CS701-
+# CS701- Intro to Programming 
 For CS701
